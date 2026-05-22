@@ -1,0 +1,10 @@
+{
+    "en": {
+        "labelKey1": "Label Value1",
+        "labelKey2": "Label Value2",
+    },
+    "fr": {
+        "labelKeyFr1": "Label Value FR 1",
+        "labelKeyFr2": "Label Value FR 2",
+    }
+}
