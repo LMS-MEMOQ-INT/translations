@@ -1,0 +1,10 @@
+﻿{
+    "en": {
+        "labelKey1": "Etykieta Wartość1",
+        "labelKey2": "Etykieta Wartość2",
+    },
+    "fr": {
+        "labelKeyFr1": "Etykieta Wartość FR 1",
+        "labelKeyFr2": "Etykieta Wartość FR 2",
+    }
+}
