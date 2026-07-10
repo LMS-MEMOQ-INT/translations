@@ -1,4 +1,4 @@
-{
+[
     "en": {
       "coveoTechnicalResources": "Technical Resources",
       "coveoResultsFound": "Results Found",
@@ -73,4 +73,4 @@
         "labelKeyFr1": "Label Value FR 1",
         "labelKeyFr2": "Label Value FR 2",
     }
-}
+]
