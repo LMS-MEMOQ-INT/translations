@@ -342,7 +342,7 @@
       "removeFilterFieldValue": "Remove filter {field}: {value}",
       "removeFilterFieldValue2": "Remove filter {field} {value}",
       "resultsStartEndOfTotalTab": "Results {start}-{end} of {total} {tab}",
-      "seeAllProductInThisFamily": "See all product in this {family}",
+      "seeAllProductInThisFamily": "See all products in this {family}",
       "selectOption": "Select {option}",
       "selectImageN": "Select image {n}",
       "sendFaxToNumber": "Send fax to {number}",
