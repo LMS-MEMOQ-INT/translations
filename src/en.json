@@ -356,7 +356,13 @@
       "categoryType": "Category Type",
       "applicationAreas": "Application Areas",
       "videoThumbnail": "Video thumbnail",
-      "product": "Product"
+      "product": "Product",
+      "addAndCompleteRequest": "Add and Complete Request",
+      "addAndContinueBrowsing": "Add and Continue Browsing",
+      "closeLabel": "Close",
+      "describeYourProblemOrDesiredSolutionToAddToYour": "Describe your problem or desired solution to add to your quote cart and one of our experts will assist to find the best solution for you.",
+      "quoteTipBeAsDetailedAsPossibleSoWeCanBestServe": "Quote Tip: Be as detailed as possible so we can best serve your request.",
+      "requestForQuote": "Request for Quote",
     }
   }
 ]
