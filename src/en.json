@@ -363,6 +363,23 @@
       "describeYourProblemOrDesiredSolutionToAddToYour": "Describe your problem or desired solution to add to your quote cart and one of our experts will assist to find the best solution for you.",
       "quoteTipBeAsDetailedAsPossibleSoWeCanBestServe": "Quote Tip: Be as detailed as possible so we can best serve your request.",
       "requestForQuote": "Request for Quote",
+      "pimcontrastingmethods": "Contrasting Methods",
+      "pimtechniques": "Techniques / Applications",
+      "pimmagnificationrange": "Magnification",
+      "pimaperturerange": "Numerical Aperture",
+      "pimobjectivetype": "Objective Type",
+      "pimimmersion": "Immersion",
+      "pimcoverglass": "Coverglass",
+      "pimthread": "Objective Thread",
+      "pimworkingdistancerange": "Free Working Distance (mm)",
+      "pimfieldnumberrange": "Field Number (FN)",
+      "pimirisdiaphragm": "Iris Diaphragm",
+      "pimspringloaded": "Spring Loaded",
+      "pimafc": "Suitable for AFC (Adaptive Focus Control)",
+      "pimcorrectionring": "Correction Ring (CORR)",
+      "pimtransmission": "Transmission",
+      "pimlight": "Light",
+      "pimobjectivethread": "Objective Thread"
     }
   }
 ]
