@@ -1,8 +1,35 @@
 {
-  "count" : 3095,
+  "count" : 3102,
   "items" : [ {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/EM_SCD050_1_20-kid24608690.jpg",
+    "lastmod" : "2026-11-06T07:11:54Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/EM_SCD050_1_20-kid24608690.jpg",
+    "metadata" : {
+      "uniqueId" : "24608690",
+      "path" : "PDP Gallery(1887814)",
+      "title" : "EM SCD050 1 20",
+      "description" : "EM SCD050 1 20",
+      "lmsalttext" : "EM SCD050 1 20",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/EM_SCD050_1_20-kid24608690.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/EM_SCD050_1_20-kid24608690-1",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM SCD050",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-scd050",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/2D_measurements_on_a_PCB_sample_using_Enersight-kid21754183.jpg",
-    "lastmod" : "2026-11-01T13:57:43Z",
+    "lastmod" : "2026-11-05T18:59:30Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/2D_measurements_on_a_PCB_sample_using_Enersight-kid21754183.jpg",
     "metadata" : {
       "uniqueId" : "21754183",
@@ -1379,7 +1406,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/Flexacam_on_Ivesta-3_stereo-kid21764398.jpg",
-    "lastmod" : "2026-10-29T09:51:33Z",
+    "lastmod" : "2026-11-05T10:04:53Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/Flexacam_on_Ivesta-3_stereo-kid21764398.jpg",
     "metadata" : {
       "uniqueId" : "21764398",
@@ -3647,7 +3674,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/Leica_Spotlight_08-kid21766116.jpg",
-    "lastmod" : "2026-11-01T13:57:43Z",
+    "lastmod" : "2026-11-06T06:31:44Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/Leica_Spotlight_08-kid21766116.jpg",
     "metadata" : {
       "uniqueId" : "21766116",
@@ -29593,6 +29620,33 @@
       "lmsJobNumber" : ""
     }
   }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/objectives/objective-picture-fallback-kid22067605.jpg",
+    "lastmod" : "2026-11-04T07:11:48Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/objectives/objective-picture-fallback-kid22067605.jpg",
+    "metadata" : {
+      "uniqueId" : "22067605",
+      "path" : "PDP Gallery/accessories/objectives(1896902)",
+      "title" : "objective-picture-fallback",
+      "description" : "objective-picture-fallback",
+      "lmsalttext" : "objective-picture-fallback",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/objectives/objective-picture-fallback-kid22067605.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/objective-picture-fallback-kid22067605",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "",
+      "productId" : "",
+      "productIdTags" : "sku;sku|11767019-leica",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/on-screen_lecture2-kid21768337.jpg",
     "lastmod" : "2026-09-17T23:06:09Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/accessories/on-screen_lecture2-kid21768337.jpg",
@@ -30080,7 +30134,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/archive/archive_3-1-kid21755408.jpg",
-    "lastmod" : "2026-10-21T23:29:04Z",
+    "lastmod" : "2026-11-06T06:46:42Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/archive/archive_3-1-kid21755408.jpg",
     "metadata" : {
       "uniqueId" : "21755408",
@@ -30377,7 +30431,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/consumables/atto/ATTOAuriga-SpatialReagents-setup-v1a-kid21755524.jpg",
-    "lastmod" : "2026-10-30T00:18:12Z",
+    "lastmod" : "2026-11-06T06:29:51Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/consumables/atto/ATTOAuriga-SpatialReagents-setup-v1a-kid21755524.jpg",
     "metadata" : {
       "uniqueId" : "21755524",
@@ -30485,7 +30539,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/consumables/atto/Spatial-Reagents-AttoAuriga-kid22574277.png",
-    "lastmod" : "2026-10-30T00:18:56Z",
+    "lastmod" : "2026-11-05T10:04:53Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/consumables/atto/Spatial-Reagents-AttoAuriga-kid22574277.png",
     "metadata" : {
       "uniqueId" : "22574277",
@@ -35452,6 +35506,87 @@
       "lmsJobNumber" : ""
     }
   }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD005_1_04-kid24609009.jpg",
+    "lastmod" : "2026-11-06T07:11:51Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD005_1_04-kid24609009.jpg",
+    "metadata" : {
+      "uniqueId" : "24609009",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "EM SCD005 1 04",
+      "description" : "EM SCD005 1 04",
+      "lmsalttext" : "EM SCD005 1 04",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD005_1_04-kid24609009.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/EM_SCD005_1_04-kid24609009",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM SCD005",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-scd005",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD050_1_20-kid24608690.jpg",
+    "lastmod" : "2026-11-06T07:11:52Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD050_1_20-kid24608690.jpg",
+    "metadata" : {
+      "uniqueId" : "24608690",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "EM SCD050 1 20",
+      "description" : "EM SCD050 1 20",
+      "lmsalttext" : "EM SCD050 1 20",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_SCD050_1_20-kid24608690.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/EM_SCD050_1_20-kid24608690",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM SCD050",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-scd050",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_TIC020_1_07-kid24609047.jpg",
+    "lastmod" : "2026-11-06T07:11:52Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_TIC020_1_07-kid24609047.jpg",
+    "metadata" : {
+      "uniqueId" : "24609047",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "EM TIC020 1 07",
+      "description" : "EM TIC020 1 07",
+      "lmsalttext" : "EM TIC020 1 07",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/EM_TIC020_1_07-kid24609047.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/EM_TIC020_1_07-kid24609047",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM TIC020",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-tic020",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Emspira-3_TL1000_Ring-Light-LED3000-RL-kid21763550.jpg",
     "lastmod" : "2026-09-17T23:14:40Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Emspira-3_TL1000_Ring-Light-LED3000-RL-kid21763550.jpg",
@@ -36074,14 +36209,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica FS 2500 CB rechts-kid17745506.jpg",
-    "lastmod" : "2026-10-05T23:37:48Z",
+    "lastmod" : "2026-11-05T07:13:00Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica FS 2500 CB rechts-kid17745506.jpg",
     "metadata" : {
       "uniqueId" : "17745506",
       "path" : "PDP Gallery/microscopes(1946447)",
-      "title" : "Leica FS 2500 CB rechts",
-      "description" : "Leica FS 2500 CB rechts",
-      "lmsalttext" : "Leica FS 2500 CB rechts",
+      "title" : "FS CB comparison bridge with DM2500 microscopes",
+      "description" : "FS CB comparison bridge with DM2500 microscopes",
+      "lmsalttext" : "FS CB comparison bridge with DM2500 microscopes",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica FS 2500 CB rechts-kid17745506.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica FS 2500 CB rechts-kid17745506",
       "type" : "image/jpeg",
@@ -36371,7 +36506,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_LAS_EZ-kid24523062.jpg",
-    "lastmod" : "2026-10-28T07:11:49Z",
+    "lastmod" : "2026-11-04T11:14:34Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_LAS_EZ-kid24523062.jpg",
     "metadata" : {
       "uniqueId" : "24523062",
@@ -36387,7 +36522,7 @@
       "product" : "DMS300;LAS EZ",
       "productId" : "",
       "productIdTags" : "family;family|dms300;family|las-ez",
-      "documentType" : "Miscellaneous",
+      "documentType" : "Product media",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -36775,33 +36910,6 @@
       "lmsJobNumber" : ""
     }
   }, {
-    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_menu_explanation_06_Overlay_1_04-kid21765835.mp4",
-    "lastmod" : "2026-09-17T23:14:54Z",
-    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_menu_explanation_06_Overlay_1_04-kid21765835.mp4",
-    "metadata" : {
-      "uniqueId" : "21765835",
-      "path" : "PDP Gallery/microscopes(1946447)",
-      "title" : "Overlay Menu",
-      "description" : "See how to select which overlay is displayed and how to import up to ten customized overlays to the Leica DMS300. Other options such as how to save the overlay to a captured image is also explained.",
-      "lmsalttext" : "Overlay Menu",
-      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_menu_explanation_06_Overlay_1_04-kid21765835.mp4/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "scene7url" : "https://danaherls.scene7.com/is/content/danaher/Leica_DMS300_menu_explanation_06_Overlay_1_04-kid21765835",
-      "type" : "video/mp4",
-      "language" : "English",
-      "languagecode" : "en",
-      "product" : "DMS1000",
-      "productId" : "",
-      "productIdTags" : "family;family|dms1000",
-      "documentType" : "Miscellaneous",
-      "category" : "",
-      "applicationArea" : "",
-      "assetItemName" : "",
-      "documentID" : "",
-      "documentPath" : "",
-      "lmsItemId" : "",
-      "lmsJobNumber" : ""
-    }
-  }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_menu_explanation_07_Remote_1_04-kid21765836.mp4",
     "lastmod" : "2026-09-17T23:14:54Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_DMS300_menu_explanation_07_Remote_1_04-kid21765836.mp4",
@@ -37018,6 +37126,87 @@
       "lmsJobNumber" : ""
     }
   }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_BAF060_1-kid24609031.jpg",
+    "lastmod" : "2026-11-06T07:11:52Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_BAF060_1-kid24609031.jpg",
+    "metadata" : {
+      "uniqueId" : "24609031",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "Leica EM BAF060 1",
+      "description" : "Leica EM BAF060 1",
+      "lmsalttext" : "Leica EM BAF060 1",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_BAF060_1-kid24609031.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica_EM_BAF060_1-kid24609031",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM BAF060",
+      "productId" : "",
+      "productIdTags" : "family;family|em-baf060",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_SCD500-kid24616878.jpg",
+    "lastmod" : "2026-11-09T07:11:59Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_SCD500-kid24616878.jpg",
+    "metadata" : {
+      "uniqueId" : "24616878",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "Leica EM SCD500",
+      "description" : "Leica EM SCD500",
+      "lmsalttext" : "Leica EM SCD500",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_SCD500-kid24616878.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica_EM_SCD500-kid24616878",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM SCD500",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-scd500",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_TIC020_1-kid24608793.jpg",
+    "lastmod" : "2026-11-06T07:11:53Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_TIC020_1-kid24608793.jpg",
+    "metadata" : {
+      "uniqueId" : "24608793",
+      "path" : "PDP Gallery/microscopes(1946447)",
+      "title" : "Leica EM TIC020 1",
+      "description" : "Leica EM TIC020 1",
+      "lmsalttext" : "Leica EM TIC020 1",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_EM_TIC020_1-kid24608793.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica_EM_TIC020_1-kid24608793",
+      "type" : "image/jpeg",
+      "language" : "",
+      "languagecode" : "",
+      "product" : "EM TIC020",
+      "productId" : "",
+      "productIdTags" : "family;family|leica-em-tic020",
+      "documentType" : "Product media",
+      "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_Thunder_Anemone-kid21766130.jpg",
     "lastmod" : "2026-10-30T00:26:39Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Leica_Thunder_Anemone-kid21766130.jpg",
@@ -37181,7 +37370,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Mateo-Hood-n-kid21767646.jpg",
-    "lastmod" : "2026-10-30T00:26:50Z",
+    "lastmod" : "2026-11-09T07:46:47Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Mateo-Hood-n-kid21767646.jpg",
     "metadata" : {
       "uniqueId" : "21767646",
@@ -37262,7 +37451,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Mateo-multi-modal-imaging-kid21767648.jpg",
-    "lastmod" : "2026-10-29T00:26:25Z",
+    "lastmod" : "2026-11-06T06:29:21Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/Mateo-multi-modal-imaging-kid21767648.jpg",
     "metadata" : {
       "uniqueId" : "21767648",
@@ -39071,7 +39260,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/compound/compareImage_of_target_cell_type-AVIA-kid24455154.jpg",
-    "lastmod" : "2026-10-21T06:11:35Z",
+    "lastmod" : "2026-11-05T07:12:37Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/compound/compareImage_of_target_cell_type-AVIA-kid24455154.jpg",
     "metadata" : {
       "uniqueId" : "24455154",
@@ -40866,7 +41055,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -41123,7 +41312,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/LMSPR012_HRES_Mateo_TL-kid21767336.jpg",
-    "lastmod" : "2026-10-30T00:19:52Z",
+    "lastmod" : "2026-11-04T05:16:09Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/LMSPR012_HRES_Mateo_TL-kid21767336.jpg",
     "metadata" : {
       "uniqueId" : "21767336",
@@ -41433,7 +41622,7 @@
       "type" : "video/mp4",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module",
       "documentType" : "Miscellaneous",
@@ -41514,7 +41703,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -41541,7 +41730,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -41663,20 +41852,20 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/Multicolor_fixed_sample_Confocal-kid21768045.jpg",
-    "lastmod" : "2026-09-17T23:08:11Z",
+    "lastmod" : "2026-11-04T16:11:44Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/Multicolor_fixed_sample_Confocal-kid21768045.jpg",
     "metadata" : {
       "uniqueId" : "21768045",
       "path" : "PDP Gallery/microscopes/confocal(1946452)",
-      "title" : "Confocal",
-      "description" : "Confocal",
-      "lmsalttext" : "Confocal",
+      "title" : "Multicolor fixed sample confocal",
+      "description" : "Multicolor fixed sample. TauSTED Xtend 775; Vimentin AF 594 (cyan), Phalloidin ATTO 647N (magenta) and NUP107 CF680R (glow). Image width: 39 nm. Sample courtesy of Brigitte Bergner, Mariano Gonzales Pisfil, Steffen Dietzel, Core Facility Bioimaging, Biomedical Center, Ludwig-Maximilians-University, Munich, Germany",
+      "lmsalttext" : "Multicolor fixed sample confocal",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/Multicolor_fixed_sample_Confocal-kid21768045.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Multicolor_fixed_sample_Confocal-kid21768045",
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -41703,7 +41892,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -42608,7 +42797,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/Stellaris-Confocal-Platform-list-kid24423664.jpg",
-    "lastmod" : "2026-10-27T00:19:00Z",
+    "lastmod" : "2026-11-05T07:12:40Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/Stellaris-Confocal-Platform-list-kid24423664.jpg",
     "metadata" : {
       "uniqueId" : "24423664",
@@ -42756,7 +42945,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED;Warranty Extension+;SpectraPlex for STELLARIS",
+      "product" : "STELLARIS STED;Warranty Extension+;SpectraPlex for STELLARIS",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls;family|warranty-extension-plus;family|spectraplex",
       "documentType" : "Miscellaneous",
@@ -42783,7 +42972,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED module;STELLARIS STED",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "bundles;bundles|stellaris-sted;family;family|stellaris-sted-microscopes;family|stellaris-sted-module;family|stellaris-sted-dls",
       "documentType" : "Miscellaneous",
@@ -42999,7 +43188,7 @@
       "type" : "image/jpeg",
       "language" : "English",
       "languagecode" : "en",
-      "product" : "STELLARIS STED;STELLARIS STED module",
+      "product" : "STELLARIS STED",
       "productId" : "",
       "productIdTags" : "family;family|stellaris-sted-microscopes;bundles;bundles|stellaris-sted;family|stellaris-sted-module",
       "documentType" : "Miscellaneous",
@@ -43580,7 +43769,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/leica-sted-list-kid21766352.jpg",
-    "lastmod" : "2026-10-30T00:19:49Z",
+    "lastmod" : "2026-11-06T06:28:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/confocal/leica-sted-list-kid21766352.jpg",
     "metadata" : {
       "uniqueId" : "21766352",
@@ -47360,7 +47549,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/THUNDER-Imager-Model-Organism_Interviews-PM-kid24443413.mp4",
-    "lastmod" : "2026-10-20T06:11:27Z",
+    "lastmod" : "2026-11-05T07:12:43Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/THUNDER-Imager-Model-Organism_Interviews-PM-kid24443413.mp4",
     "metadata" : {
       "uniqueId" : "24443413",
@@ -48035,7 +48224,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/dmi8-stage2021-kid21757795.jpg",
-    "lastmod" : "2026-10-30T00:20:40Z",
+    "lastmod" : "2026-11-06T14:08:11Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/dmi8-stage2021-kid21757795.jpg",
     "metadata" : {
       "uniqueId" : "21757795",
@@ -48575,7 +48764,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/lms-dmi1-feature-kid21766805.png",
-    "lastmod" : "2026-10-29T09:51:33Z",
+    "lastmod" : "2026-11-05T10:04:53Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/inverted/lms-dmi1-feature-kid21766805.png",
     "metadata" : {
       "uniqueId" : "21766805",
@@ -52139,7 +52328,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Incident Light Base Large-kid21434887.jpg",
-    "lastmod" : "2026-09-17T23:10:11Z",
+    "lastmod" : "2026-11-04T10:14:19Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Incident Light Base Large-kid21434887.jpg",
     "metadata" : {
       "uniqueId" : "21434887",
@@ -52166,7 +52355,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Incident Light Base_Monitor_Hip Implant Plastic-kid21434898.jpg",
-    "lastmod" : "2026-09-17T23:10:11Z",
+    "lastmod" : "2026-11-04T10:14:19Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Incident Light Base_Monitor_Hip Implant Plastic-kid21434898.jpg",
     "metadata" : {
       "uniqueId" : "21434898",
@@ -52193,7 +52382,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_IsoPro Stage-kid21434900.jpg",
-    "lastmod" : "2026-09-17T23:10:12Z",
+    "lastmod" : "2026-11-04T10:14:19Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_IsoPro Stage-kid21434900.jpg",
     "metadata" : {
       "uniqueId" : "21434900",
@@ -52220,7 +52409,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_IsoPro Stage_Monitor_PCBA_User_2-kid21434814.jpg",
-    "lastmod" : "2026-09-17T23:10:12Z",
+    "lastmod" : "2026-11-04T10:14:19Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_IsoPro Stage_Monitor_PCBA_User_2-kid21434814.jpg",
     "metadata" : {
       "uniqueId" : "21434814",
@@ -52247,7 +52436,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000-kid21434817.jpg",
-    "lastmod" : "2026-09-17T23:10:14Z",
+    "lastmod" : "2026-11-04T10:14:21Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000-kid21434817.jpg",
     "metadata" : {
       "uniqueId" : "21434817",
@@ -52274,7 +52463,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Cup Stage_PCBA-kid21434819.jpg",
-    "lastmod" : "2026-09-17T23:10:12Z",
+    "lastmod" : "2026-11-04T10:14:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Cup Stage_PCBA-kid21434819.jpg",
     "metadata" : {
       "uniqueId" : "21434819",
@@ -52301,7 +52490,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_Flexible Printed Circuit (FPC)_User-kid21434831.jpg",
-    "lastmod" : "2026-09-17T23:10:12Z",
+    "lastmod" : "2026-11-04T10:14:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_Flexible Printed Circuit (FPC)_User-kid21434831.jpg",
     "metadata" : {
       "uniqueId" : "21434831",
@@ -52328,7 +52517,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_Mechanical Part-kid21434835.jpg",
-    "lastmod" : "2026-09-17T23:10:13Z",
+    "lastmod" : "2026-11-04T10:14:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_Mechanical Part-kid21434835.jpg",
     "metadata" : {
       "uniqueId" : "21434835",
@@ -52355,7 +52544,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_PCBA_Magnification Change_User-kid21434844.jpg",
-    "lastmod" : "2026-09-17T23:10:13Z",
+    "lastmod" : "2026-11-04T10:14:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Monitor_PCBA_Magnification Change_User-kid21434844.jpg",
     "metadata" : {
       "uniqueId" : "21434844",
@@ -52382,7 +52571,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Objective Change-kid21434854.jpg",
-    "lastmod" : "2026-09-17T23:10:13Z",
+    "lastmod" : "2026-11-04T10:14:21Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_Objective Change-kid21434854.jpg",
     "metadata" : {
       "uniqueId" : "21434854",
@@ -52409,7 +52598,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_PCBA_Adjustment Relief Contrast_2-kid21434856.jpg",
-    "lastmod" : "2026-09-17T23:10:14Z",
+    "lastmod" : "2026-11-04T10:14:21Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_TL1000_PCBA_Adjustment Relief Contrast_2-kid21434856.jpg",
     "metadata" : {
       "uniqueId" : "21434856",
@@ -52436,7 +52625,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Zoom Ring-kid21434802.jpg",
-    "lastmod" : "2026-09-17T23:10:14Z",
+    "lastmod" : "2026-11-04T10:14:22Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Emspira 5_Zoom Ring-kid21434802.jpg",
     "metadata" : {
       "uniqueId" : "21434802",
@@ -53003,7 +53192,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Heat Map electronic-kid21933394.jpg",
-    "lastmod" : "2026-09-17T23:10:21Z",
+    "lastmod" : "2026-11-04T10:14:22Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Heat Map electronic-kid21933394.jpg",
     "metadata" : {
       "uniqueId" : "21933394",
@@ -53435,7 +53624,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_A60S_A60F_illumination-kid21765696.jpg",
-    "lastmod" : "2026-10-30T00:00:00Z",
+    "lastmod" : "2026-11-09T00:00:00Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_A60S_A60F_illumination-kid21765696.jpg",
     "metadata" : {
       "uniqueId" : "21765696",
@@ -53489,7 +53678,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_A60_F_2_ergo-kid21765690.jpg",
-    "lastmod" : "2026-10-30T00:22:04Z",
+    "lastmod" : "2026-11-09T00:19:52Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_A60_F_2_ergo-kid21765690.jpg",
     "metadata" : {
       "uniqueId" : "21765690",
@@ -53786,7 +53975,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_DM2700_M_Upright-Materials-Microscope_list-kid21765759.jpg",
-    "lastmod" : "2026-11-02T00:21:25Z",
+    "lastmod" : "2026-11-09T00:19:56Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Leica_DM2700_M_Upright-Materials-Microscope_list-kid21765759.jpg",
     "metadata" : {
       "uniqueId" : "21765759",
@@ -54596,7 +54785,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Ring Light_Coaxial Illumination-kid21434806.jpg",
-    "lastmod" : "2026-09-17T23:10:48Z",
+    "lastmod" : "2026-11-04T10:14:22Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Ring Light_Coaxial Illumination-kid21434806.jpg",
     "metadata" : {
       "uniqueId" : "21434806",
@@ -54623,7 +54812,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Ring Light_top left_bottom right-kid21434812.jpg",
-    "lastmod" : "2026-09-17T23:10:49Z",
+    "lastmod" : "2026-11-04T10:14:23Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Ring Light_top left_bottom right-kid21434812.jpg",
     "metadata" : {
       "uniqueId" : "21434812",
@@ -55244,7 +55433,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Viventis-Deep-Header-V3-kid21777060.jpg",
-    "lastmod" : "2026-10-30T11:44:34Z",
+    "lastmod" : "2026-11-09T10:18:08Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Viventis-Deep-Header-V3-kid21777060.jpg",
     "metadata" : {
       "uniqueId" : "21777060",
@@ -55460,7 +55649,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Viventis-Scape_LighSheetMicroscope-kid21777067.jpg",
-    "lastmod" : "2026-09-17T23:10:57Z",
+    "lastmod" : "2026-11-06T07:30:06Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/Viventis-Scape_LighSheetMicroscope-kid21777067.jpg",
     "metadata" : {
       "uniqueId" : "21777067",
@@ -55946,7 +56135,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/dm6-fs-objective-kid21757554.jpg",
-    "lastmod" : "2026-10-29T09:51:32Z",
+    "lastmod" : "2026-11-05T10:04:53Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/dm6-fs-objective-kid21757554.jpg",
     "metadata" : {
       "uniqueId" : "21757554",
@@ -56270,7 +56459,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/leica-dive-list-kid21766169.jpg",
-    "lastmod" : "2026-10-30T00:22:13Z",
+    "lastmod" : "2026-11-06T06:28:20Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/leica-dive-list-kid21766169.jpg",
     "metadata" : {
       "uniqueId" : "21766169",
@@ -57458,7 +57647,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-FullHD_Composite3_Double-kid21774594.png",
-    "lastmod" : "2026-10-21T23:22:01Z",
+    "lastmod" : "2026-11-06T06:31:04Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-FullHD_Composite3_Double-kid21774594.png",
     "metadata" : {
       "uniqueId" : "21774594",
@@ -57512,7 +57701,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-U2OS_EB3_Baojin_image13_Crop_DepthCoding-kid24346604.jpg",
-    "lastmod" : "2026-10-14T06:13:32Z",
+    "lastmod" : "2026-11-05T07:12:49Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-U2OS_EB3_Baojin_image13_Crop_DepthCoding-kid24346604.jpg",
     "metadata" : {
       "uniqueId" : "24346604",
@@ -57539,7 +57728,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-Viventis-Deep_organoid_live_and_cleared-imaging_composing-kid21774729.jpg",
-    "lastmod" : "2026-10-30T00:22:35Z",
+    "lastmod" : "2026-11-06T06:31:04Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-Viventis-Deep_organoid_live_and_cleared-imaging_composing-kid21774729.jpg",
     "metadata" : {
       "uniqueId" : "21774729",
@@ -57593,7 +57782,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-ch1glow-kid24346603.jpg",
-    "lastmod" : "2026-10-14T06:13:31Z",
+    "lastmod" : "2026-11-05T07:12:48Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/light-sheet/snap-ch1glow-kid24346603.jpg",
     "metadata" : {
       "uniqueId" : "24346603",
@@ -58241,13 +58430,13 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/lms-mateotl-intuititve-setup-03-kid21767023.png",
-    "lastmod" : "2026-10-19T23:27:01Z",
+    "lastmod" : "2026-11-04T07:11:55Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/lms-mateotl-intuititve-setup-03-kid21767023.png",
     "metadata" : {
       "uniqueId" : "21767023",
       "path" : "PDP Gallery/microscopes(1946447)",
       "title" : "Mateo TL Intuitive setup and use",
-      "description" : "Mateo TL Intuitive setup and use",
+      "description" : "Easy setup and operation across the entire team",
       "lmsalttext" : "Mateo TL Intuitive setup and use",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/lms-mateotl-intuititve-setup-03-kid21767023.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/lms-mateotl-intuititve-setup-03-kid21767023",
@@ -58808,7 +58997,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Customizable-accessories_02-kid21756920.jpg",
-    "lastmod" : "2026-10-30T00:22:54Z",
+    "lastmod" : "2026-11-06T05:21:32Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Customizable-accessories_02-kid21756920.jpg",
     "metadata" : {
       "uniqueId" : "21756920",
@@ -59186,7 +59375,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Emspira 3_Incident Light Base_Ring Light LED3000 RL_Monitor_PCBA_User_Aivaro AI Feature Detection_2-kid24039761.jpg",
-    "lastmod" : "2026-11-02T00:22:10Z",
+    "lastmod" : "2026-11-04T11:39:25Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Emspira 3_Incident Light Base_Ring Light LED3000 RL_Monitor_PCBA_User_Aivaro AI Feature Detection_2-kid24039761.jpg",
     "metadata" : {
       "uniqueId" : "24039761",
@@ -59240,7 +59429,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Emspira 5_Emspira 3_Family-kid21434870.jpg",
-    "lastmod" : "2026-09-17T23:11:34Z",
+    "lastmod" : "2026-11-04T10:14:27Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/Emspira 5_Emspira 3_Family-kid21434870.jpg",
     "metadata" : {
       "uniqueId" : "21434870",
@@ -61481,7 +61670,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_runnig_mechanical part_wetted area_detail-kid24036136.png",
-    "lastmod" : "2026-09-28T23:28:52Z",
+    "lastmod" : "2026-11-06T13:11:54Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_runnig_mechanical part_wetted area_detail-kid24036136.png",
     "metadata" : {
       "uniqueId" : "24036136",
@@ -61497,7 +61686,7 @@
       "product" : "Aivaro AI Feature Detection",
       "productId" : "",
       "productIdTags" : "family;family|aivaro",
-      "documentType" : "Application media",
+      "documentType" : "Product media",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -61508,7 +61697,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_running_cross section width-feret-kid24036142.png",
-    "lastmod" : "2026-10-29T00:22:44Z",
+    "lastmod" : "2026-11-04T11:39:25Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_running_cross section width-feret-kid24036142.png",
     "metadata" : {
       "uniqueId" : "24036142",
@@ -61589,7 +61778,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_training_electronics_pcb-counting_detail-kid24036153.png",
-    "lastmod" : "2026-11-02T11:12:36Z",
+    "lastmod" : "2026-11-06T13:11:55Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/aivaro_training_electronics_pcb-counting_detail-kid24036153.png",
     "metadata" : {
       "uniqueId" : "24036153",
@@ -61605,7 +61794,7 @@
       "product" : "Aivaro AI Feature Detection",
       "productId" : "",
       "productIdTags" : "family;family|aivaro",
-      "documentType" : "Application media",
+      "documentType" : "Product media",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -61616,7 +61805,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/assist_instructions-for-operator_detail-kid24038724.png",
-    "lastmod" : "2026-09-25T09:18:06Z",
+    "lastmod" : "2026-11-06T13:11:55Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/assist_instructions-for-operator_detail-kid24038724.png",
     "metadata" : {
       "uniqueId" : "24038724",
@@ -61632,7 +61821,7 @@
       "product" : "Aivaro AI Feature Detection",
       "productId" : "",
       "productIdTags" : "family;family|aivaro",
-      "documentType" : "Application media",
+      "documentType" : "Product media",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -61967,7 +62156,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/import-ai-model_detail-kid24036162.png",
-    "lastmod" : "2026-11-02T11:12:36Z",
+    "lastmod" : "2026-11-06T13:11:55Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/stereo/import-ai-model_detail-kid24036162.png",
     "metadata" : {
       "uniqueId" : "24036162",
@@ -61983,7 +62172,7 @@
       "product" : "Aivaro AI Feature Detection",
       "productId" : "",
       "productIdTags" : "family;family|aivaro",
-      "documentType" : "Application media",
+      "documentType" : "Product media",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -63506,7 +63695,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/03_M822_Direct-Ilumination_-kid21712231.jpg",
-    "lastmod" : "2026-11-03T00:23:13Z",
+    "lastmod" : "2026-11-06T00:21:46Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/03_M822_Direct-Ilumination_-kid21712231.jpg",
     "metadata" : {
       "uniqueId" : "21712231",
@@ -64505,14 +64694,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization-kid22573971.jpg",
-    "lastmod" : "2026-10-30T00:00:00Z",
+    "lastmod" : "2026-11-06T00:00:00Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization-kid22573971.jpg",
     "metadata" : {
       "uniqueId" : "22573971",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization",
-      "description" : "ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization",
-      "lmsalttext" : "ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization",
+      "title" : "Get the optimal view that adapts to your needs with ARveo 8x 3D Digital Microscope",
+      "description" : "Get the optimal view that adapts to your needs with ARveo 8x 3D Digital Microscope",
+      "lmsalttext" : "Get the optimal view that adapts to your needs with ARveo 8x 3D Digital Microscope",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization-kid22573971.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://s7d9.scene7.com/is/image/danaherstage/ARveo-8x-Hybrid-Surgical-Microscope-Experience-Our-Best-Optical-Visualization-kid22573971jpg",
       "type" : "image/jpeg",
@@ -64604,6 +64793,33 @@
       "productIdTags" : "family;family|arveo-8;family|arveo-8x;family|evolved-arveo-8",
       "documentType" : "Miscellaneous",
       "category" : "",
+      "applicationArea" : "",
+      "assetItemName" : "",
+      "documentID" : "",
+      "documentPath" : "",
+      "lmsItemId" : "",
+      "lmsJobNumber" : ""
+    }
+  }, {
+    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Advanced-illumination-systems_OpticsCarrier_LightBeam_OHX-kid24616919.jpg",
+    "lastmod" : "2026-11-09T07:11:56Z",
+    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Advanced-illumination-systems_OpticsCarrier_LightBeam_OHX-kid24616919.jpg",
+    "metadata" : {
+      "uniqueId" : "24616919",
+      "path" : "PDP Gallery/microscopes/surgical(1946448)",
+      "title" : "Ensure patient safety with advanced illumination for tissue protection",
+      "description" : "Ensure patient safety with advanced illumination for tissue protection",
+      "lmsalttext" : "Ensure patient safety with advanced illumination for tissue protection",
+      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Advanced-illumination-systems_OpticsCarrier_LightBeam_OHX-kid24616919.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+      "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Advanced-illumination-systems_OpticsCarrier_LightBeam_OHX-kid24616919",
+      "type" : "image/jpeg",
+      "language" : "English",
+      "languagecode" : "en",
+      "product" : "ARveo 8x",
+      "productId" : "",
+      "productIdTags" : "family;family|arveo-8x",
+      "documentType" : "Miscellaneous",
+      "category" : "Microscopes;Microscopes|Surgical Microscopes",
       "applicationArea" : "",
       "assetItemName" : "",
       "documentID" : "",
@@ -64775,14 +64991,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Brainlab_NavigationImage_Tumor Software 1.5-kid12276140.png",
-    "lastmod" : "2026-10-27T07:12:15Z",
+    "lastmod" : "2026-11-06T07:11:47Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Brainlab_NavigationImage_Tumor Software 1.5-kid12276140.png",
     "metadata" : {
       "uniqueId" : "12276140",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "Brainlab NavigationImage Tumor Software 1.5",
-      "description" : "Brainlab NavigationImage Tumor Software 1.5",
-      "lmsalttext" : "Brainlab NavigationImage Tumor Software 1.5",
+      "title" : "Easy integration of IGS systems",
+      "description" : "Easy integration of IGS systems",
+      "lmsalttext" : "Easy integration of IGS systems",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Brainlab_NavigationImage_Tumor Software 1.5-kid12276140.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Brainlab_NavigationImage_Tumor Software 1.5-kid12276140",
       "type" : "image/png",
@@ -64964,7 +65180,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/DKEM-surgery_v11_07-18_02-kid21757269.jpg",
-    "lastmod" : "2026-11-02T07:19:53Z",
+    "lastmod" : "2026-11-05T07:12:54Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/DKEM-surgery_v11_07-18_02-kid21757269.jpg",
     "metadata" : {
       "uniqueId" : "21757269",
@@ -64985,7 +65201,7 @@
       "applicationArea" : "",
       "assetItemName" : "",
       "documentID" : "",
-      "documentPath" : "cdn: https://contenthub.leica-microsystems.com/cdn/IcmBSnZs0VgT/dkem-surgery-v11-07-18-02.mp4",
+      "documentPath" : "https://contenthub.leica-microsystems.com/cdn/IcmBSnZs0VgT/dkem-surgery-v11-07-18-02.mp4",
       "lmsItemId" : "",
       "lmsJobNumber" : ""
     }
@@ -65045,7 +65261,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Dr_Lucia_Piccione_working_with_the_M320_ENT_microscope_in_diagnostics-list-kid24472603.jpg",
-    "lastmod" : "2026-10-22T06:14:31Z",
+    "lastmod" : "2026-11-05T07:12:54Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Dr_Lucia_Piccione_working_with_the_M320_ENT_microscope_in_diagnostics-list-kid24472603.jpg",
     "metadata" : {
       "uniqueId" : "24472603",
@@ -66071,13 +66287,13 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/GLOW800_Aneurysm_slider_OLD_BW_07-kid21764734.jpg",
-    "lastmod" : "2026-10-30T00:24:18Z",
+    "lastmod" : "2026-11-06T07:11:47Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/GLOW800_Aneurysm_slider_OLD_BW_07-kid21764734.jpg",
     "metadata" : {
       "uniqueId" : "21764734",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
       "title" : "Augment your vascular neurosurgery",
-      "description" : "FL800 - Near infrared fluorescence imaging",
+      "description" : "Get  real-time augmented visualization  with 3D depth of the cerebral anatomy and vascular flow in one view.",
       "lmsalttext" : "Augment your vascular neurosurgery",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/GLOW800_Aneurysm_slider_OLD_BW_07-kid21764734.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/GLOW800_Aneurysm_slider_OLD_BW_07-kid21764734",
@@ -68933,7 +69149,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/M822_F20_Ophthalmic_Microscope-list-kid21767546.jpg",
-    "lastmod" : "2026-10-30T00:24:52Z",
+    "lastmod" : "2026-11-09T00:23:03Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/M822_F20_Ophthalmic_Microscope-list-kid21767546.jpg",
     "metadata" : {
       "uniqueId" : "21767546",
@@ -69095,7 +69311,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Mikroskop_TEP_01-kid21767886.jpg",
-    "lastmod" : "2026-10-30T00:24:54Z",
+    "lastmod" : "2026-11-06T05:21:31Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Mikroskop_TEP_01-kid21767886.jpg",
     "metadata" : {
       "uniqueId" : "21767886",
@@ -69581,7 +69797,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Proveo8x-3D-Digital-OphthalmicMicroscope-kid21768845.jpg",
-    "lastmod" : "2026-10-30T00:25:17Z",
+    "lastmod" : "2026-11-09T00:23:11Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Proveo8x-3D-Digital-OphthalmicMicroscope-kid21768845.jpg",
     "metadata" : {
       "uniqueId" : "21768845",
@@ -69635,14 +69851,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Proveo_8_Surgeon_Information_Panel_3600_2400-kid21768828.jpg",
-    "lastmod" : "2026-09-17T23:13:36Z",
+    "lastmod" : "2026-11-06T07:11:48Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Proveo_8_Surgeon_Information_Panel_3600_2400-kid21768828.jpg",
     "metadata" : {
       "uniqueId" : "21768828",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "Proveo 8 Surgeon Information Panel 3600 2400",
-      "description" : "Proveo 8 Surgeon Information Panel 3600 2400",
-      "lmsalttext" : "Proveo 8 Surgeon Information Panel 3600 2400",
+      "title" : "Proveo 8 Surgeon Information Panel",
+      "description" : "Proveo 8 Surgeon Information Panel",
+      "lmsalttext" : "Proveo 8 Surgeon Information Panel",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/Proveo_8_Surgeon_Information_Panel_3600_2400-kid21768828.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Proveo_8_Surgeon_Information_Panel_3600_2400-kid21768828",
       "type" : "image/jpeg",
@@ -70931,14 +71147,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/fusionoptics-kid21764645.jpg",
-    "lastmod" : "2026-09-17T23:12:57Z",
+    "lastmod" : "2026-11-04T11:14:31Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/fusionoptics-kid21764645.jpg",
     "metadata" : {
       "uniqueId" : "21764645",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "See more with FusionOptics",
-      "description" : "See more with FusionOptics",
-      "lmsalttext" : "See more with FusionOptics",
+      "title" : "See more with FusionOptics in related articles.",
+      "description" : "See more with FusionOptics in related articles.",
+      "lmsalttext" : "See more with FusionOptics in related articles.",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/fusionoptics-kid21764645.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/fusionoptics-kid21764645",
       "type" : "image/jpeg",
@@ -71255,14 +71471,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/lms-support_remotecare-header-kid21767274.jpg",
-    "lastmod" : "2026-09-17T23:13:11Z",
+    "lastmod" : "2026-11-06T07:11:48Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/lms-support_remotecare-header-kid21767274.jpg",
     "metadata" : {
       "uniqueId" : "21767274",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "lms-support remotecare-header",
-      "description" : "lms-support remotecare-header",
-      "lmsalttext" : "lms-support remotecare-header",
+      "title" : "Service & Support. RemoteCare",
+      "description" : "Service & Support. RemoteCare",
+      "lmsalttext" : "Service & Support. RemoteCare",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/lms-support_remotecare-header-kid21767274.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/lms-support_remotecare-header-kid21767274",
       "type" : "image/jpeg",
@@ -71498,7 +71714,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/provido-surgical-listkv_02-kid21768864.jpg",
-    "lastmod" : "2026-10-30T00:25:19Z",
+    "lastmod" : "2026-11-04T11:46:34Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/provido-surgical-listkv_02-kid21768864.jpg",
     "metadata" : {
       "uniqueId" : "21768864",
@@ -71606,14 +71822,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/snap_Enfocus-Launch-Video_MC-0001653_03.111.2020_cmpressed_1-kid21774472.png",
-    "lastmod" : "2026-11-02T07:19:54Z",
+    "lastmod" : "2026-11-05T07:12:54Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/snap_Enfocus-Launch-Video_MC-0001653_03.111.2020_cmpressed_1-kid21774472.png",
     "metadata" : {
       "uniqueId" : "21774472",
       "path" : "PDP Gallery/microscopes/surgical(1946448)",
-      "title" : "snap Enfocus-Launch-Video MC-0001653 03.111.2020 cmpressed 1",
-      "description" : "snap Enfocus-Launch-Video MC-0001653 03.111.2020 cmpressed 1",
-      "lmsalttext" : "snap Enfocus-Launch-Video MC-0001653 03.111.2020 cmpressed 1",
+      "title" : "EnFocus Launch Video",
+      "description" : "EnFocus Launch Video",
+      "lmsalttext" : "EnFocus Launch Video",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/surgical/snap_Enfocus-Launch-Video_MC-0001653_03.111.2020_cmpressed_1-kid21774472.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/snap_Enfocus-Launch-Video_MC-0001653_03.111.2020_cmpressed_1-kid21774472",
       "type" : "image/png",
@@ -71627,7 +71843,7 @@
       "applicationArea" : "",
       "assetItemName" : "",
       "documentID" : "",
-      "documentPath" : "cdn: https://contenthub.leica-microsystems.com/cdn/Pske6Ixw1gdS/enfocus-launch-video-mc-0001653-031112020-cmpressed-1.mp4",
+      "documentPath" : "https://contenthub.leica-microsystems.com/cdn/Pske6Ixw1gdS/enfocus-launch-video-mc-0001653-031112020-cmpressed-1.mp4",
       "lmsItemId" : "",
       "lmsJobNumber" : ""
     }
@@ -71957,7 +72173,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Comfort-Position-Leica-Visoria-M-Microscope-kid21756469.jpg",
-    "lastmod" : "2026-10-30T00:25:33Z",
+    "lastmod" : "2026-11-09T00:23:24Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Comfort-Position-Leica-Visoria-M-Microscope-kid21756469.jpg",
     "metadata" : {
       "uniqueId" : "21756469",
@@ -73307,14 +73523,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_FS_4_CB_rechts_CMYK1200px-kid21765946.png",
-    "lastmod" : "2026-09-17T23:14:05Z",
+    "lastmod" : "2026-11-05T07:12:56Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_FS_4_CB_rechts_CMYK1200px-kid21765946.png",
     "metadata" : {
       "uniqueId" : "21765946",
       "path" : "PDP Gallery/microscopes/upright(1946451)",
-      "title" : "Paragraph 3",
-      "description" : "Paragraph 3",
-      "lmsalttext" : "Paragraph 3",
+      "title" : "FS CB comparison bridge with DM4 LED microscopes",
+      "description" : "FS CB comparison bridge with DM4 LED microscopes",
+      "lmsalttext" : "FS CB comparison bridge with DM4 LED microscopes",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_FS_4_CB_rechts_CMYK1200px-kid21765946.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica_FS_4_CB_rechts_CMYK1200px-kid21765946",
       "type" : "image/png",
@@ -73334,14 +73550,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_Hubtisch_Seite-kid21765953.tif",
-    "lastmod" : "2026-09-17T23:14:06Z",
+    "lastmod" : "2026-11-05T07:12:56Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_Hubtisch_Seite-kid21765953.tif",
     "metadata" : {
       "uniqueId" : "21765953",
       "path" : "PDP Gallery/microscopes/upright(1946451)",
-      "title" : "Paragraph 5",
-      "description" : "Paragraph 5",
-      "lmsalttext" : "Paragraph 5",
+      "title" : "Ergonomic worktable and accessories",
+      "description" : "Ergonomic worktable and accessories",
+      "lmsalttext" : "Ergonomic worktable and accessories",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/Leica_Hubtisch_Seite-kid21765953.tif/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/Leica_Hubtisch_Seite-kid21765953",
       "type" : "image/tiff",
@@ -73955,14 +74171,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/appli3600x2400_01-kid21755359.png",
-    "lastmod" : "2026-09-17T23:13:51Z",
+    "lastmod" : "2026-11-05T07:12:56Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/appli3600x2400_01-kid21755359.png",
     "metadata" : {
       "uniqueId" : "21755359",
       "path" : "PDP Gallery/microscopes/upright(1946451)",
-      "title" : "Paragraph 1: The connection unit",
-      "description" : "Paragraph 1: The connection unit",
-      "lmsalttext" : "Paragraph 1: The connection unit",
+      "title" : "The connection unit",
+      "description" : "The connection unit",
+      "lmsalttext" : "The connection unit",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/microscopes/upright/appli3600x2400_01-kid21755359.png/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/appli3600x2400_01-kid21755359",
       "type" : "image/png",
@@ -75251,7 +75467,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/3D-uCT-scan-data-opened-in-the-3D-Trim-module-of-UC-Enuity-kid21754305.jpg",
-    "lastmod" : "2026-10-19T23:25:40Z",
+    "lastmod" : "2026-11-04T00:00:00Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/3D-uCT-scan-data-opened-in-the-3D-Trim-module-of-UC-Enuity-kid21754305.jpg",
     "metadata" : {
       "uniqueId" : "21754305",
@@ -75710,7 +75926,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/EM_KMR3_29-kid24522951.jpg",
-    "lastmod" : "2026-10-28T08:30:04Z",
+    "lastmod" : "2026-11-05T07:13:11Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/EM_KMR3_29-kid24522951.jpg",
     "metadata" : {
       "uniqueId" : "24522951",
@@ -75781,33 +75997,6 @@
       "productId" : "",
       "productIdTags" : "family;family|em-tic-3x",
       "documentType" : "Product media",
-      "category" : "",
-      "applicationArea" : "",
-      "assetItemName" : "",
-      "documentID" : "",
-      "documentPath" : "",
-      "lmsItemId" : "",
-      "lmsJobNumber" : ""
-    }
-  }, {
-    "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/EM_TIC_3X_Rotary_Stage_customer_1-720-432-1_13-kid21758272.mp4",
-    "lastmod" : "2026-09-17T23:15:37Z",
-    "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/EM_TIC_3X_Rotary_Stage_customer_1-720-432-1_13-kid21758272.mp4",
-    "metadata" : {
-      "uniqueId" : "21758272",
-      "path" : "PDP Gallery/sample-preparation-em(1946460)",
-      "title" : "Rotary stage for Leica EM TIC 3X",
-      "description" : "Processing of a 25 mm Ø oil shale sample",
-      "lmsalttext" : "Rotary stage for Leica EM TIC 3X",
-      "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/EM_TIC_3X_Rotary_Stage_customer_1-720-432-1_13-kid21758272.mp4/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-      "scene7url" : "https://danaherls.scene7.com/is/content/danaher/EM_TIC_3X_Rotary_Stage_customer_1-720-432-1_13-kid21758272",
-      "type" : "video/mp4",
-      "language" : "English",
-      "languagecode" : "en",
-      "product" : "EM TIC 3X",
-      "productId" : "",
-      "productIdTags" : "family;family|em-tic-3x",
-      "documentType" : "Miscellaneous",
       "category" : "",
       "applicationArea" : "",
       "assetItemName" : "",
@@ -76142,7 +76331,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Leica-EM-ICE-HP-Freezer-list-kid24466264.jpg",
-    "lastmod" : "2026-10-22T06:14:34Z",
+    "lastmod" : "2026-11-05T07:13:11Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Leica-EM-ICE-HP-Freezer-list-kid24466264.jpg",
     "metadata" : {
       "uniqueId" : "24466264",
@@ -76196,7 +76385,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Leica-EM-TIC3x-IonBeam-Milling-list-kid24466206.jpg",
-    "lastmod" : "2026-10-22T06:14:34Z",
+    "lastmod" : "2026-11-05T07:13:12Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Leica-EM-TIC3x-IonBeam-Milling-list-kid24466206.jpg",
     "metadata" : {
       "uniqueId" : "24466206",
@@ -77249,7 +77438,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Tissue-Processor-EM-TP-list-kid24466255.jpg",
-    "lastmod" : "2026-10-22T06:14:34Z",
+    "lastmod" : "2026-11-05T07:13:12Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Tissue-Processor-EM-TP-list-kid24466255.jpg",
     "metadata" : {
       "uniqueId" : "24466255",
@@ -77276,7 +77465,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Tokuyasu-cryo-sectioning-with-UC-Enuity-Cryo-EM-of-Rat-Exocrine-Pancreas-kid24465574.jpg",
-    "lastmod" : "2026-10-21T06:11:45Z",
+    "lastmod" : "2026-11-05T07:13:12Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/Tokuyasu-cryo-sectioning-with-UC-Enuity-Cryo-EM-of-Rat-Exocrine-Pancreas-kid24465574.jpg",
     "metadata" : {
       "uniqueId" : "24465574",
@@ -77492,7 +77681,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/UC_Enuity_Ultramicrotome-Leica-list-kid24466169.jpg",
-    "lastmod" : "2026-10-22T06:14:34Z",
+    "lastmod" : "2026-11-05T07:13:13Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/UC_Enuity_Ultramicrotome-Leica-list-kid24466169.jpg",
     "metadata" : {
       "uniqueId" : "24466169",
@@ -77546,14 +77735,14 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/VCT500_Workflow-n_16-kid21776903.jpg",
-    "lastmod" : "2026-09-17T23:16:03Z",
+    "lastmod" : "2026-11-04T16:11:48Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/VCT500_Workflow-n_16-kid21776903.jpg",
     "metadata" : {
       "uniqueId" : "21776903",
       "path" : "PDP Gallery/sample-preparation-em(1946460)",
-      "title" : "Workflow",
-      "description" : "Workflow",
-      "lmsalttext" : "Workflow",
+      "title" : "EM Sample Preparation Workflow",
+      "description" : "EM Sample Preparation Workflow",
+      "lmsalttext" : "EM Sample Preparation Workflow",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/VCT500_Workflow-n_16-kid21776903.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/VCT500_Workflow-n_16-kid21776903",
       "type" : "image/jpeg",
@@ -78032,7 +78221,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/electron-sample-prep-content_edited-kid24464989.jpg",
-    "lastmod" : "2026-10-21T06:11:42Z",
+    "lastmod" : "2026-11-05T07:13:11Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/electron-sample-prep-content_edited-kid24464989.jpg",
     "metadata" : {
       "uniqueId" : "24464989",
@@ -78572,13 +78761,13 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/microtubules-20000x-kid21767879.jpg",
-    "lastmod" : "2026-09-17T23:15:55Z",
+    "lastmod" : "2026-11-03T11:18:56Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/microtubules-20000x-kid21767879.jpg",
     "metadata" : {
       "uniqueId" : "21767879",
       "path" : "PDP Gallery/sample-preparation-em(1946460)",
       "title" : "Image quality",
-      "description" : "Microtubules acquired at 20000x",
+      "description" : "Courtesy of Dr. Guenter Resch, Nexperion e.U. – Solutions for Electron Microscopy; Dr. Thomas Heuser and Marlene Brandstetter, Vienna, Biocenter Core Facilities GmbH",
       "lmsalttext" : "Image quality",
       "image" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/microtubules-20000x-kid21767879.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
       "scene7url" : "https://danaherls.scene7.com/is/image/danaher/microtubules-20000x-kid21767879",
@@ -79031,7 +79220,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/tic3x-reproducible-results-_03-kid24271652.jpg",
-    "lastmod" : "2026-10-21T23:27:25Z",
+    "lastmod" : "2026-11-05T07:13:12Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/tic3x-reproducible-results-_03-kid24271652.jpg",
     "metadata" : {
       "uniqueId" : "24271652",
@@ -79058,7 +79247,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/tic3x-reproducible-results-_03b-kid24271651.jpg",
-    "lastmod" : "2026-10-12T23:27:50Z",
+    "lastmod" : "2026-11-05T07:13:12Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/sample-preparation-em/tic3x-reproducible-results-_03b-kid24271651.jpg",
     "metadata" : {
       "uniqueId" : "24271651",
@@ -80273,7 +80462,7 @@
     }
   }, {
     "loc" : "https://publish-p165966-e1845332.adobeaemcloud.com/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/software/Alberto-Biuso-Portrait-kid21755267.jpg",
-    "lastmod" : "2026-11-02T00:27:45Z",
+    "lastmod" : "2026-11-09T00:26:29Z",
     "url" : "/content/dam/leica-microsystems/kontainer-poc/PDP Gallery/software/Alberto-Biuso-Portrait-kid21755267.jpg",
     "metadata" : {
       "uniqueId" : "21755267",
