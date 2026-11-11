@@ -49,6 +49,7 @@
       "objectiveRemoveFromCompare": "Remove from compare",
       "objectiveDownloadChart": "Download chart",
       "objectiveFilterByAreaOfApplication": "Filter by Area of Application",
+      "objectiveFilterByProductType": "Filter by Product Type",
       "downloads": "Downloads",
       "download": "Download",
       "viewAll": "View All",
