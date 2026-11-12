@@ -1,7 +1,8 @@
 name: Sync PDP image captions
 
-# Saves the AEM PDP Gallery assets JSON exactly as AEM returns it as
-# src/pdp-image-caption/en.json (source file for memoQ), once a week.
+# Saves the AEM PDP Gallery assets JSON as src/pdp-image-caption/en.json (source
+# file for memoQ), once a week. Same structure as the AEM response ({count, items:
+# [{metadata}]}), but each item keeps only the fields listed in FIELDS.
 # Commits only when the file changed (assets added, changed or removed).
 # A failed, incomplete or much smaller response never overwrites the file.
 
@@ -20,6 +21,7 @@ permissions:
 env:
   SOURCE_URL: https://publish-p165966-e1845332.adobeaemcloud.com/content.assets-sitemap.json?path=/content/dam/leica-microsystems/kontainer-poc/PDP%20Gallery
   TARGET: src/pdp-image-caption/en.json
+  FIELDS: uniqueId,title,description,lmsalttext,scene7url
   MAX_DROP_PERCENT: 20
 
 jobs:
@@ -54,10 +56,24 @@ jobs:
             echo "Assets: $ITEMS (new file)"
           fi
 
+      - name: Keep only the translation fields
+        run: |
+          jq --arg fields "$FIELDS" '
+            ($fields | split(",")) as $keep
+            | {
+                count: (.items | length),
+                items: [.items[] | {
+                  metadata: (.metadata // {}
+                    | with_entries(select(.key as $k | $keep | index($k)) | select(.value != null)))
+                }]
+              }
+          ' "$RUNNER_TEMP/assets.json" > "$RUNNER_TEMP/en.json"
+          echo "Size: $(wc -c < "$RUNNER_TEMP/assets.json") -> $(wc -c < "$RUNNER_TEMP/en.json") bytes"
+
       - name: Save and commit if changed
         run: |
           mkdir -p "$(dirname "$TARGET")"
-          cp "$RUNNER_TEMP/assets.json" "$TARGET"
+          cp "$RUNNER_TEMP/en.json" "$TARGET"
           git add "$TARGET"
           if git diff --cached --quiet; then
             echo "No asset changes"
